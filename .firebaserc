@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angularprod-30114": {
+      "hosting": {
+        "angularcrud-app": [
+          "angularprod-30114"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angularprod-30114"
+  }
+}
